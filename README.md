@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Juan Daniel Vanegas! 
+# 👋 Hi, I'm Juan Vanegas! 
 Welcome to my GitHub! I'm a **Systems Engineer** passionate about software development, data science, artificial intelligence, and continuous learning. 🖥️💡
 
 ---
