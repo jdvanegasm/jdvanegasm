@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a **Systems Engineer** passionate about software devel
   "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
   "Data Visualization": ["Power BI", "Qlik", "Excel", "R Studio"],
   "Operating Systems": ["Linux", "Windows"],
-  "Others": ["Git", "Docker", "AWS", "SCRUM"]
+  "Others": ["Git", "Docker", "AWS"]
 }
 ```
 
