@@ -42,7 +42,11 @@ Welcome to my GitHub! I'm a **Systems Engineer** passionate about software devel
 
 ## 🛠️ **My Languages**
 
+<div align="center">
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdvanegasm&layout=compact&theme=radical)
+
+</div>
 
 ---
 ## 🌐 **Find Me Elsewhere**
