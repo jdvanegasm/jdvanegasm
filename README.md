@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a **Systems Engineer** passionate about software devel
 }
 ```
 
-✨ I specialize in transforming data into actionable insights and creating applications that optimize user experience.✨
+🖥️💡 I specialize in transforming data into actionable insights and creating applications that optimize user experience.
 
 ---
 ## 📂 **My Favorite Projects**
