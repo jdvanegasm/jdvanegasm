@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm a **Systems Engineer** passionate about software devel
 
 ```json
 {
-  "Languages": ["Python", "Java", "JavaScript", "C", "C++"],
-  "Frameworks": ["Spring Boot", "Django", "Flask", "Node.js", "Nest.js"],
+  "Languages": ["Python", "Java", "JavaScript", "C#", "C++", "C"],
+  "Frameworks": ["Net Framework", "Spring Boot", "Django", "Flask", "Node.js", "Nest.js"],
   "Libraries and Tools": ["PyCaret", "PyTorch", "TensorFlow", "NumPy", "Pandas"],
   "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
   "Data Visualization": ["Power BI", "Qlik", "Excel", "R Studio"],
